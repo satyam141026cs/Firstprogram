@@ -1,0 +1,27 @@
+header{
+    
+background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80');
+   background-repeat: no-repeat;
+
+    min-height:800px;
+   
+    background-size: 100% 45%;
+}
+body{
+    background-color: #e2e8f0 !important;
+}
+main{
+   min-height:800px;
+   background-color: #ffff;
+}
+footer{
+min-height: 800px;
+background-color: #1e293b;
+}
+.border_radious{
+    border-radius: 10px;
+}
+.fborder{
+    border-top:1px #E2E8F0 solid;
+    background-color: #e2e8f0 !important;
+}

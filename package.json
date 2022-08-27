@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "vite": "^3.0.9"
+  },
+  "name": "firstprogramssh",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyam141026cs/Firstprogram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyam141026cs/Firstprogram/issues"
+  },
+  "homepage": "https://github.com/satyam141026cs/Firstprogram#readme",
+  "description": ""
+}
