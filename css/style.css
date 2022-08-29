@@ -9,6 +9,7 @@ background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd
 }
 body{
     background-color: #e2e8f0 !important;
+
 }
 main{
    min-height:800px;
@@ -24,4 +25,7 @@ background-color: #1e293b;
 .fborder{
     border-top:1px #E2E8F0 solid;
     background-color: #e2e8f0 !important;
+}
+.sborder{
+    border: 2px solid red;
 }
